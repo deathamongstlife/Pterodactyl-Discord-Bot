@@ -44,7 +44,7 @@ const Status = {
                     IP: Config.Nodes.Dono4,
                     ID: "46",
                     Location: Config.Ping.UK,
-                    MaxLimit: 200
+                    MaxLimit: 400
                 }
             },
 
